@@ -1,0 +1,8 @@
+Given an array of distinct integers and a target, list all the unique combinations where chosen numbers sum up to the target.
+A number can be chosen unlimited number of times.
+
+e.g. [2,3,6,7] target=7
+o/p: [ [2,2,3] [7] ]
+
+e.g. [2,3,5] target=8
+o/p: [ [2,3,3] [3,5] [2,2,2,2] ]

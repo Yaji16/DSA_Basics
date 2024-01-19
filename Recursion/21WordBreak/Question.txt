@@ -1,0 +1,6 @@
+Given a string 's' and a dictionary of strings wordDict, return true if s can be segmented into a space separated sequence of one or more dictionary words.
+Note: Some word in dictionary can be reused multiple times.
+
+e.g. s = "leetcode" wordDict = ["leet", "code"] - True
+     s = "applepenapple" wordDict = ["apple", "pen"] - True
+     s="catsanddog"    wordDict = ["cats", "dog", "sand", "and", "cat"] - False

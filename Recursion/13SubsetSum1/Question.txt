@@ -1,0 +1,3 @@
+Given an array of integers, list all the sums of the subsets that can be formed.
+e.g. [5,2,1]
+o/p: 0 1 2 3 5 6 7 8

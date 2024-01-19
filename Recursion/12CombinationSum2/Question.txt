@@ -1,0 +1,5 @@
+Given an array of integers(there are duplicates) and a target, list all the unique combinations where chosen numbers sum up to the target.
+A number can be chosen only once. The answers shpuld be unique.
+
+e.g. [1,1,1,2,2] target=4
+o/p: [ [1,1,2] [2,2] ]

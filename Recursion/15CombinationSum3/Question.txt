@@ -1,0 +1,3 @@
+Find all valid combinations of K numbers that sum up to n such that 1-9 used each number is used at most once. Return all combinations, it should not have duplicates.
+e.g. k = 3 n = 7
+o/p: [1,2,4]

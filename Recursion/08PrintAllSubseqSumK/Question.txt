@@ -1,0 +1,3 @@
+Given an array and sum k, find and print the subsequences which have sum k.
+e.g [1,2,1] k = 2
+[1,1] [2]

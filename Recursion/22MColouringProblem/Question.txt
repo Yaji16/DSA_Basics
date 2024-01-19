@@ -1,0 +1,2 @@
+Given an undirected graph and an integer M. The task is to determine if the graph can be colored with at most M colors,
+such that no two adjacent vertices are of same color. Print 1 if possible else 0.

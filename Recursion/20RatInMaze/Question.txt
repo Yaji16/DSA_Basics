@@ -1,0 +1,2 @@
+Given a binary grid where 1- path and 0-block, find the paths in which the rat can travel from cell (0,0) to cell (n-1,n-1).
+Return all the paths in sorted order. The rat can move only in 4 directions.

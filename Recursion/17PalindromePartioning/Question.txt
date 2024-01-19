@@ -1,0 +1,4 @@
+Given string s , partition s such that every substring of the partition is a palindrome.
+Return all possible palindorme partitioning of s.
+
+e.g. "aab"  o/p: ["a", "a", "b"] [ "aa", "b"]

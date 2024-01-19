@@ -1,0 +1,1 @@
+Arrange the N queens on an NxN board such that no queen is attacking the other queen. Return all the possible arrangements.

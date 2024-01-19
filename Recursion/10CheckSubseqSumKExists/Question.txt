@@ -1,0 +1,2 @@
+Check if there exists a subsequence in the arrray with the sum K.
+e.g. [1,2,1] K = 2 o/p:Yes

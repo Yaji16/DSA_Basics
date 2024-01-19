@@ -1,0 +1,1 @@
+Given an 9x9 sudoku matrix, find the solution. Each row, coloumn and box will have numbers from 1-9, no number is repeated in a row, column or box.

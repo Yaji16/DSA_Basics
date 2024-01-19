@@ -1,0 +1,2 @@
+Count all the subsequences with the sum K.
+e.g. [1,2,1] K = 2 o/p: 2 ([1,1] and [2])

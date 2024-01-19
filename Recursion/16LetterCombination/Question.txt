@@ -1,0 +1,6 @@
+Given a string digits, return all the possible combinations that can be obtained using those digit on an old keypad phone.
+
+2 - "abc" 3 - "def" 4 - "ghi" 5 - "jkl" 6 - "mno" 7 - "pqrs" 8 - "tuv" 9 - "wxyz"
+
+e.g digits = "23"
+o/p: [ ad ae af bd be bf cd ce cf]
