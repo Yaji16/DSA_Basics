@@ -1,0 +1,4 @@
+Find the nth fibonacci number.
+Fibonacci series : 0 1 1 2 3 5 8 13 21 . . .
+
+e.g n = 4 o/p:3 

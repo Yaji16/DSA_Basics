@@ -1,0 +1,1 @@
+Given an n * m matrix of ones and zeros, return how many square submatrices have all ones.

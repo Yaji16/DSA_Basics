@@ -1,0 +1,6 @@
+The longest increasing subsequence is described as a subsequence of an array where:
+
+All elements of the subsequence are in increasing order.
+This subsequence itself is of the longest length possible.
+
+Find the length.

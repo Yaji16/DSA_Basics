@@ -1,0 +1,2 @@
+The longest Common Subsequence is defined for two strings. It is the common subsequence that has the greatest length.
+find the length of LCS.

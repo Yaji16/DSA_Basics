@@ -1,0 +1,2 @@
+A divisible subset is the one in which if we pick two elements i and j from the subset, then either arr[i]%arr[j] == 0 or arr[j] % arr[i] == 0. For example, [16,8,4] is a divisible subset.
+Given an array with distinct elements, we need to print its longest divisible subset. We can print any answer.

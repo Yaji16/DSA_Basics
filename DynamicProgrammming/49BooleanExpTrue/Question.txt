@@ -1,0 +1,5 @@
+Given an expression, A, with operands and operators (OR, AND, XOR), in how many ways can you evaluate the expression to be true, by grouping it in different ways?
+
+Operands are only true and false.
+
+Return the number of ways to evaluate the expression modulo 103 + 3.
